@@ -5,9 +5,15 @@
 
 Contributions are always welcome! Please take a look at the contribution guidelines pages first. Thanks to all contributors, you're awesome and this wouldn't be possible without you!
 
+## Introduction
+* [Introducing .NET Multi-Platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/)
+
 ## General
-* [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-platform App UI
+* [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-platform App UI Official repo
 * [Windows UI Library](https://github.com/Microsoft/microsoft-ui-xaml) - WinUI is a user interface layer that contains modern controls and styles for building Windows apps.
 * [Xamarin](https://github.com/xamarin) - Open-source mobile app platform for .NET
+
+## Videos
+* [The Journey to One .NET](https://channel9.msdn.com/Events/Build/2020/BOD106?ocid=AID3012654&WT.mc_id=Build2020_pmmsocialblog)
 
 
