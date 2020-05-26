@@ -13,7 +13,7 @@ Contributions are always welcome! Please take a look at the contribution guideli
 ## General
 * [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-platform App UI Official repo
 * [Windows UI Library](https://github.com/Microsoft/microsoft-ui-xaml) - WinUI is a user interface layer that contains modern controls and styles for building Windows apps.
-* [Xamarin](https://github.com/xamarin) - Open-source mobile app platform for .NET
+* [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms Official Home
 
 ## People
 * [Brandon Minnick](https://twitter.com/thecodetraveler) - .NET Developer | Xamarin Developer | Developer Advocate @Microsoft.
