@@ -1,9 +1,10 @@
-# Awesome .NET MAUI (Multi-Platform App UI)
+# Awesome .NET MAUI (Multi-Platform App UI) 
+
 >A curated list of awesome .NET MAUI libraries and resources.
 
 .NET MAUI is a Multi-platform native UI that deploys to multiple devices across mobile & desktop. It uses a single project, single codebase, and is an evolution of Xamarin.Forms with support for UWP.
 
-Contributions are always welcome! Please take a look at the contribution guidelines pages first. Thanks to all contributors, you're awesome and this wouldn't be possible without you!
+Contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) pages first. Thanks to all contributors, you're awesome and this wouldn't be possible without you!
 
 ## Introduction
 * [Introducing .NET Multi-Platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/)
