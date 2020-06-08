@@ -10,12 +10,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Introducing .NET Multi-Platform App UI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/)
 * [The Journey to One .NET](https://channel9.msdn.com/Events/Build/2020/BOD106?ocid=AID3012654&WT.mc_id=Build2020_pmmsocialblog)
 * [MAUI, MVU, Renders and PropertyMappers](https://www.youtube.com/watch?v=_MGh3xipWm4&feature=youtu.be)
-* [Comet](https://github.com/Clancey/Comet)
 
 ## General
 * [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-platform App UI Official repo
 * [Windows UI Library](https://github.com/Microsoft/microsoft-ui-xaml) - WinUI is a user interface layer that contains modern controls and styles for building Windows apps.
 * [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms Official Home
+* [Comet](https://github.com/Clancey/Comet) - MVU Toolkit written in C#
 
 ## People
 * [Brandon Minnick](https://twitter.com/thecodetraveler) - .NET Developer | Xamarin Developer | Developer Advocate @Microsoft.
